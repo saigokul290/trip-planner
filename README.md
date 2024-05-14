@@ -19,7 +19,7 @@ Trip Planner is a Python-based mini project that helps users plan their trips by
 ## Usage
 1. Run the application.
 2. Enter your budget.
-3. Receive trip recommendations.
+3. Receive trip recommendations according to your inputed budget.
 
 ## Contributors
 - SAI GOKUL K P (<saigokulkp29@outlook.com>)
