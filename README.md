@@ -3,6 +3,11 @@
 ## Description
 Trip Planner is a Python-based mini project that helps users plan their trips by storing information about hangouts, restaurants, buses, and their prices. It uses SQL for data storage and provides recommendations based on the user's budget.
 
+## Contributors
+- SAI GOKUL K P (<saigokulkp29@outlook.com>)
+- ROHAN S (<rohansati04@gmail.com>)
+- ROSHAN IMMANUEL (<roshan7156@gmail.com>)
+
 ## Features
 - Store information about hangouts, restaurants, buses, and their prices.
 - Provide trip recommendations based on the user's budget.
@@ -20,11 +25,6 @@ Trip Planner is a Python-based mini project that helps users plan their trips by
 1. Run the application.
 2. Enter your budget.
 3. Receive trip recommendations according to your inputed budget.
-
-## Contributors
-- SAI GOKUL K P (<saigokulkp29@outlook.com>)
-- ROHAN S (<rohansati04@gmail.com>)
-- ROSHAN IMMANUEL (<roshan7156@gmail.com>)
 
 
 <img width="960" alt="Screenshot 2023-01-22 111214" src="https://github.com/saigokul290/trip-planner/assets/87557049/2463c48f-5e6e-4822-bd1c-28ca50a1751b">
